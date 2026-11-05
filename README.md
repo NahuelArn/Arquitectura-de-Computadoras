@@ -12,7 +12,9 @@ Arquitectura de computadoras(Facu): https://www.youtube.com/@arquitecturadecompu
 <p>
 Joaquin Bogado: https://www.youtube.com/@joaquinbogado
 </p>
-
+<p>
+Pagina para practicar el Final : https://maxinunez24.github.io/final-arquitectura-de-computadoras/
+</p>
 Codigo de Asambler y Mips64
 
 ![image](https://user-images.githubusercontent.com/100500003/217909409-43ab645f-823f-4829-b5c5-6c6d44e581af.png)
